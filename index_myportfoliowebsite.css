@@ -201,7 +201,7 @@ nav {
 .hotdog {
     display: block;
     position: fixed;
-    right: 4px;
+    right: 10px;
 }
 
 .hotdog,
@@ -419,7 +419,7 @@ nav {
 @media (min-width: 600px) {
     .section--form,
     .submit {
-        width: 50%;
+        width: 100%;
         justify-content: center;
     }
     .submit {
@@ -487,7 +487,7 @@ input, textarea {
     background-color: #efefef;
     color: #787575;
     border-radius: 5px;
-    width: 70%;
+    width: 100%;
     outline: none;
 }
 

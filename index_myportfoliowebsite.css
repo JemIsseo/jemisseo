@@ -416,6 +416,13 @@ nav {
     margin-right: 100px;
 }
 
+@media (min-width: 600px) {
+    .section--form,
+    .submit {
+        width: 80%;
+    }
+}
+
 .submit {
     background-color: var(--clr-accent);
     padding: 12px 45px;

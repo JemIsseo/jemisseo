@@ -412,6 +412,11 @@ nav {
     text-align: center;
 }
 
+.forms {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .submit {
     background-color: var(--clr-accent);
     padding: 12px 45px;

@@ -128,7 +128,8 @@ header {
 }
 
 .logo {
-    max-width: 100px;
+    max-width: 160px;
+    margin-top: -40px;
 }
 
 nav {
